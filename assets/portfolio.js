@@ -84,7 +84,7 @@ export function createPortfolio(React) {
     ['Motion graphics & code','Remotion, HTML5 Canvas, Custom Overlays'],
     ['Voice & TTS','ElevenLabs'],
     ['Image generation & AI','Google Gemini, ChatGPT, Nano Banana'],
-    ['Video editing','CapCut, OpenChatCut, FFmpeg'],
+    ['Video editing','Adobe Premiere Pro, CapCut, OpenChatCut, FFmpeg'],
     ['Prompt engineering','ChatGPT, Gemini'],
     ['Visual design','Canva, Figma']
   ];
